@@ -1,0 +1,72 @@
+section
+{
+   display: flex;
+     justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+  width: 100%;
+  background: url('file:///C:/Users/DREAM/Desktop/New%20folder/wallpaperflare.com_wallpaper%20(3).jpg')no-repeat;
+   background-position: center;
+   background-size: cover;
+
+  }
+
+
+
+
+
+form
+{
+   border: 2px solid;
+   height: 17cm;
+   width: 14cm;
+   border-radius: 25px;
+   font-size:25px;
+   padding: 30px;
+   border-color: rgb(100, 184, 10);
+
+
+}
+ .div1
+ {
+  padding-right:7cm;
+  color: aqua;
+ 
+ }
+ 
+ 
+button
+ {
+   height:1cm;
+   width:9cm;
+   border-radius:25px;
+   font-size:1em;
+   background: rgb(165, 255, 9);
+   color:red;
+
+ }
+ input
+ {
+   border: none;
+  border-bottom: 2px solid;
+  background: transparent;
+  outline: none;
+  padding-right: 2.5cm;
+  font-size: 0.8em;
+  color: rgb(179, 0, 255);
+ }
+ button a{
+
+  text-decoration: none;
+  color: rgb(36, 69, 4);
+
+
+ }
+ h1{
+
+ font-size: 2em;
+ color: rgb(205, 255, 39);
+
+ }
+ 
+ 
